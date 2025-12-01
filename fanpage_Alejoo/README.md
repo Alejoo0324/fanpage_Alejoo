@@ -25,3 +25,5 @@ La página incluye:
 ## Cómo visualizar la página
 
 Este proyecto será desplegado en **GitHub Pages**.
+Actualizado: Último ajuste menor para la entrega.
+
