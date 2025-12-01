@@ -10,6 +10,7 @@ header {
     color: white;
     padding: 20px;
     text-align: center;
+    border-bottom: 4px solid #ff0099; /* línea nueva */
 }
 
 nav ul {
